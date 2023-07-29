@@ -1,0 +1,5 @@
+Ouutput::
+{ 
+  evens: [2, 4],
+  odds: [1, 3, 5]
+}
